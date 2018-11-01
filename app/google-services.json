@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "480494449289",
+    "firebase_url": "https://fir-demo-d108a.firebaseio.com",
+    "project_id": "fir-demo-d108a",
+    "storage_bucket": "fir-demo-d108a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480494449289:android:f3c8964a1ae1d24b",
+        "android_client_info": {
+          "package_name": "com.example.vikashkumarpandit.emailauthintication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480494449289-j4qf6bldift1hibfvhgf3h53rf6tkc03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vikashkumarpandit.emailauthintication",
+            "certificate_hash": "e865a7ac51abe28672897d8c70198bbaabdac9f6"
+          }
+        },
+        {
+          "client_id": "480494449289-h9e50us6faj23smtrltdjd32rm1umdqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hkojx7_99u7qw1kkuM6IEHE1StoRm4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480494449289-h9e50us6faj23smtrltdjd32rm1umdqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480494449289:android:bc1906ad5501d1c1",
+        "android_client_info": {
+          "package_name": "com.example.vikashkumarpandit.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480494449289-s0hm3o9g12c1kfnniigtnodat67hl1mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vikashkumarpandit.googlelogin",
+            "certificate_hash": "e865a7ac51abe28672897d8c70198bbaabdac9f6"
+          }
+        },
+        {
+          "client_id": "480494449289-h9e50us6faj23smtrltdjd32rm1umdqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hkojx7_99u7qw1kkuM6IEHE1StoRm4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480494449289-h9e50us6faj23smtrltdjd32rm1umdqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480494449289:android:48df38030042b938",
+        "android_client_info": {
+          "package_name": "com.example.vikashkumarpandit.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480494449289-i76i99181d530buu0na556filholjdt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vikashkumarpandit.phoneauthentication",
+            "certificate_hash": "e865a7ac51abe28672897d8c70198bbaabdac9f6"
+          }
+        },
+        {
+          "client_id": "480494449289-h9e50us6faj23smtrltdjd32rm1umdqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hkojx7_99u7qw1kkuM6IEHE1StoRm4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480494449289-h9e50us6faj23smtrltdjd32rm1umdqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
